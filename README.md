@@ -1,0 +1,1 @@
+# This is a template for an app that uses pywebview for the backend, React with Typescript Tailwind CSS and vite for the Frontend and socket.io to communicate between backend and frontend.
